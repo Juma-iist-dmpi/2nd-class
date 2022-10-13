@@ -3,7 +3,7 @@ welcome to our 2nd class
 ## Juma akter
 ## I am a web developer
 ### My skills= c,c++,python,javascript.
-<img width="600" src="https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
+<img width="600" src="https://cdn.dribbble.com/users/281525/screenshots/1768570/media/2669447cca1fb2702039f59dcd9717f3.gif">
 ___
 
 
